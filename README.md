@@ -28,5 +28,7 @@ Most of the time, no. Those contain personal information and will not be recorde
 
 # Can I switch my ID to a banned one?
 First, *why?*
+
 Second, *you technically can,* however we do not recommend it, and people who are banned for a limited time do not have their full ID recorded.
+
 Third, *impersonating a user can get your account banned or your IP blocked. Do not impersonate users.*
