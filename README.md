@@ -3,7 +3,7 @@ A list of UUIDS that are banned from any _online_ Uncoded project.
 
 Offline games/apps are not affected.
 
-# How to appeal
+# How to appeal:
 Most bans normally only happen if the person has done REALLY bad things, such as, but not limited to: using our services for illegal activity, stealing IDs and/or Remano Private Keys, and transferring files that contain bad things.
 
 Therefore, the ability to appeal will most likely not show up for you. If you are banned for a set time, just wait until you are no longer banned.
