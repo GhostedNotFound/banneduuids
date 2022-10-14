@@ -25,3 +25,8 @@ In this case, context matters. We will determine if your account should go from 
 Most of the time, no. Those contain personal information and will not be recorded.
 
 *However*, if the community requests to see information about the person (let's assume they did some screwed up stuff), they will be banned on both their Remano private key AND their Uncoded Universal Key.
+
+# Can I switch my ID to a banned one?
+First, *why?*
+Second, *you technically can,* however we do not recommend it, and people who are banned for a limited time do not have their full ID recorded.
+Third, *impersonating a user can get your account banned or your IP blocked. Do not impersonate users.*
